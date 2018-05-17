@@ -1,0 +1,7 @@
+AD Configuration ::
+http://www.rebeladmin.com/2014/07/step-by-step-guide-to-setup-active-directory-on-windows-server-2012/
+https://support.rackspace.com/how-to/installing-active-directory-on-windows-server-2012/
+
+
+DS and DNS Configuration ::
+https://www.youtube.com/watch?v=-kenmRzzFGU
