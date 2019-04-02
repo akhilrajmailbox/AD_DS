@@ -5,3 +5,8 @@ https://support.rackspace.com/how-to/installing-active-directory-on-windows-serv
 
 DS and DNS Configuration ::
 https://www.youtube.com/watch?v=-kenmRzzFGU
+https://www.itprotoday.com/active-directory/how-do-i-configure-active-directory-integrated-dns
+
+Grant user permission for remote login
+https://www.wintips.org/fix-to-sign-in-remotely-you-need-the-right-to-sign-in-through-remote-desktop-services-server-2016/
+https://www.experts-exchange.com/questions/29003476/'Requested-Session-Access-is-Denied'-on-Terminal-Server-Domain-Member.html
